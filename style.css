@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+    background-image: url("./img/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1{
+    background: none;
+}
+
+input{
+    background: none;
+    background-color: aliceblue;
+    width: 180px;
+    height: 30px;
+}
+
+button{
+    background: none;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    width: 90px;
+    height: 40px;
+}
+footer{
+    background: none;
+}
